@@ -1,0 +1,12 @@
+# 2. 변수
+# 별도의 자료형을 선언하지 않아도 된다.
+identity = '지구인'
+
+# 3. 연산
+a = 4
+b = 2
+summation = a + b # = 6
+multiply = a * b # = 8
+divide = a / b # = 2
+remainder = a % b # = 0
+power = a ** b # = 16
